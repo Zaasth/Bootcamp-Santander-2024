@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Bootcamp-Santander-2024.iml" filepath="$PROJECT_DIR$/.idea/Bootcamp-Santander-2024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafio 100 dias/Desafio 100 dias.iml" filepath="$PROJECT_DIR$/Desafio 100 dias/Desafio 100 dias.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello World/Hello World.iml" filepath="$PROJECT_DIR$/Hello World/Hello World.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TesteJava22/TesteJava22.iml" filepath="$PROJECT_DIR$/TesteJava22/TesteJava22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estudos Wellinton/Wellinton.iml" filepath="$PROJECT_DIR$/Estudos Wellinton/Wellinton.iml" />
+    </modules>
+  </component>
+</project>
