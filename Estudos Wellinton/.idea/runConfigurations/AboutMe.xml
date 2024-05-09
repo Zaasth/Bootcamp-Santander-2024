@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="AboutMe" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="edu.wellinton.testes.Terminal.AboutMe" />
+    <module name="Wellinton" />
+    <option name="PROGRAM_PARAMETERS" value="wellinton lucas 21 180" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="edu.wellinton.testes.Terminal.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

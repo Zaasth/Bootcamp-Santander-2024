@@ -12,6 +12,6 @@ public class Variaveis {
         Apesar de o tipo float, ocupar metade da memória consumida do que um tipo double, ele é menos utilizado. Ele sofre de uma limitação
         que compromete seu uso em determinadas situações: somente mantém uma precisão decimal entre 6 e 7 dígitos.
          */
-        System.out.println(STR."Número: \{tetseByte}");
+        System.out.println("Número: " + tetseByte);
     }
 }

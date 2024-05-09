@@ -14,7 +14,7 @@ public class TestarMetodos {
         return resultado;
     }
     private static void imprimir(String text){
-        System.out.println(STR."O seu texto é: \{text}");
+        System.out.println("O seu texto é: " + text);
     }
 }
 
