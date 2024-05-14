@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95d2ee50-8048-442b-85d2-32cfbd5ce866" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Estudos Wellinton/.idea/runConfigurations/AboutMe.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Estudos Wellinton/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Estudos Wellinton/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Estudos Wellinton/src/edu/wellinton/testes/Metodos/TestarMetodos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Estudos Wellinton/src/edu/wellinton/testes/Metodos/TestarMetodos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Estudos Wellinton/src/edu/wellinton/testes/TiposEVariaveis/Constantes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Estudos Wellinton/src/edu/wellinton/testes/TiposEVariaveis/Constantes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Estudos Wellinton/src/edu/wellinton/testes/TiposEVariaveis/Variaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Estudos Wellinton/src/edu/wellinton/testes/TiposEVariaveis/Variaveis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,36 +12,36 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Zaasth"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Zaasth&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Zaasth/Bootcamp-Santander-2024.git",
-    "accountId": "81265918-bf0d-431f-bae6-9d3544e21718"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Zaasth/Bootcamp-Santander-2024.git&quot;,
+    &quot;accountId&quot;: &quot;81265918-bf0d-431f-bae6-9d3544e21718&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2gD7BPEL4LmHIduKLvp3ImW3IAR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/T-GAMER/Documents/estudos/Bootcamp-Santander-2024/Desafio 100 dias",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/T-GAMER/Documents/estudos/Bootcamp-Santander-2024/Desafio 100 dias&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -63,6 +59,8 @@
       <option name="presentableId" value="Default" />
       <updated>1715220158021</updated>
       <workItem from="1715220159139" duration="4000" />
+      <workItem from="1715244849742" duration="3000" />
+      <workItem from="1715299908141" duration="4000" />
     </task>
     <servers />
   </component>
