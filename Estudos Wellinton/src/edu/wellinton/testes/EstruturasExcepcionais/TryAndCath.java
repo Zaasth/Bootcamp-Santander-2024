@@ -12,12 +12,12 @@ public class TryAndCath {
             Scanner sc = new Scanner(System.in).useLocale(Locale.US);
 
             System.out.println("Digite seu nome:");
-            String nome = sc.next();
-            nome = formatarNome(nome);
+            String nome = formatarNome(sc.next());
+            //nome = formatarNome(nome);
 
             System.out.println("Digite seu sobrenome:");
-            String sobrenome = sc.next();
-            sobrenome = formatarNome(sobrenome);
+            String sobrenome = formatarNome(sc.next());
+            //sobrenome = formatarNome(sobrenome);
 
             System.out.println("Digite sua idade:");
             int idade = sc.nextInt();
