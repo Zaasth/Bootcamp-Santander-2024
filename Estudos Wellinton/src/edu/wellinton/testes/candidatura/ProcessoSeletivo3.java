@@ -1,4 +1,4 @@
-package candidatura;
+package edu.wellinton.testes.candidatura;
 import java.util.concurrent.ThreadLocalRandom;
 
 public class ProcessoSeletivo3 {
