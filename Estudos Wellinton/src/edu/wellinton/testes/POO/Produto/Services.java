@@ -1,5 +1,8 @@
 package edu.wellinton.testes.POO.Produto;
 
+import edu.wellinton.testes.Enums.Desconto;
+import edu.wellinton.testes.POO.Pessoa;
+
 import java.util.Locale;
 
 public class Services {
@@ -26,4 +29,18 @@ public class Services {
                 return "Parametro 'info' Inválido";
         }
     }
+    public static double aplicarDesconto(ProdutoModel produto, double desconto){
+
+        double res;
+        if (produto.desconto == Desconto.sim){
+            res = (desconto*produto.preco) / 100;
+            res = Math.abs(res - produto.preco);
+            return res;
+        } else {
+            return produto.preco;
+        }
+
+    }
+
+
 }

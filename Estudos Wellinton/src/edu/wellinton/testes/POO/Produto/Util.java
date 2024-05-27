@@ -1,5 +1,7 @@
 package edu.wellinton.testes.POO.Produto;
 
+import edu.wellinton.testes.POO.Pessoa;
+
 public class Util {
 
     public static boolean validarIdProduto(ProdutoModel produto){
@@ -15,5 +17,9 @@ public class Util {
 
     public static String formatarId(String id){
         return id.replace("-", "");
+    }
+
+    public static String formatarCpf(Pessoa pessoa){
+        return Pessoa.getCpf(pessoa).replaceAll("-", "").replace(".", "");
     }
 }
