@@ -12,11 +12,9 @@ public class Produto {
     // Construtor
     public Produto(String nome, Tipo tipo, String descricao, int id, double preco, Desconto desconto) {
         this.nome = nome;
-        this.tipo = tipo;
         this.descricao = descricao;
         this.id = id;
         this.preco = preco;
-        this.desconto = desconto;
 
         if (id < 0){
             this.id = Math.abs(id);
