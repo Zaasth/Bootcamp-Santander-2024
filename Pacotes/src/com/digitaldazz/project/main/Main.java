@@ -7,7 +7,8 @@ import com.digitaldazz.project.services.Services;
 
 public class Main {
     public static void main(String[] args) {
-        Produto produto = new Produto("Esfirra", Tipo.Alimento, "Uma esfirra muito foda!", 1, 3.50, Desconto.não);
+        Produto produto = new Produto("Esfirra", "Uma esfirra muito foda!", 1, 3.50);
+        Produto cleiton = new Produto("Refrigerante", "Descrição foda!", 2, 6.00);
 
         System.out.println(Services.getInfos(produto, "all"));
         produto.setPreco(10.50);

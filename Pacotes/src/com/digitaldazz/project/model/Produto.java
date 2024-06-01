@@ -3,14 +3,12 @@ import com.digitaldazz.project.enums.*;
 
 public class Produto {
     String nome;
-    Tipo tipo;
     String descricao;
     int id;
     double preco;
-    Desconto desconto;
 
     // Construtor
-    public Produto(String nome, Tipo tipo, String descricao, int id, double preco, Desconto desconto) {
+    public Produto(String nome, String descricao, int id, double preco) {
         this.nome = nome;
         this.descricao = descricao;
         this.id = id;
@@ -31,14 +29,6 @@ public class Produto {
 
     public void setNome(String nome) {
         this.nome = nome;
-    }
-
-    public Tipo getTipo(){
-        return this.tipo;
-    }
-
-    public void setTipo(Tipo tipo){
-        this.tipo = tipo;
     }
 
     public String getDescricao(){
@@ -65,12 +55,6 @@ public class Produto {
         this.preco = preco;
     }
 
-    public Desconto getDesconto(){
-        return this.desconto;
-    }
 
-    public void setDesconto(Desconto desconto){
-        this.desconto = desconto;
-    }
 
 }
