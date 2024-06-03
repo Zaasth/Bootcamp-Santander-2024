@@ -23,4 +23,8 @@ public class Carro extends Veiculo{
         System.out.println("Carro ligado!");
     }
 
+    @Override
+    public void ligar() {
+        
+    }
 }

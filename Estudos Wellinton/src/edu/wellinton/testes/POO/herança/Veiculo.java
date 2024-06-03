@@ -1,6 +1,6 @@
 package edu.wellinton.testes.POO.herança;
 
-public class Veiculo {
+public abstract class Veiculo {
     private String placa;
 
     public String getPlaca() {
@@ -10,4 +10,6 @@ public class Veiculo {
     public void setPlaca(String placa) {
         this.placa = placa;
     }
+
+    public abstract void ligar();
 }
