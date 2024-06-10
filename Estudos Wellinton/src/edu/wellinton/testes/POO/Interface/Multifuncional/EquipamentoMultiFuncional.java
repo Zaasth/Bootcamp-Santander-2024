@@ -7,7 +7,7 @@ import edu.wellinton.testes.POO.Interface.Impressora.Impressora;
 public class EquipamentoMultiFuncional implements Copiadora, Digitalizadora, Impressora {
     @Override
     public void copiar() {
-
+        System.out.println("EquipamentoMultiFuncional Copiando");
     }
 
     @Override
@@ -17,6 +17,6 @@ public class EquipamentoMultiFuncional implements Copiadora, Digitalizadora, Imp
 
     @Override
     public void imprimir() {
-
+        System.out.println("Imprimindo EquipamentoMultiFuncional");
     }
 }
