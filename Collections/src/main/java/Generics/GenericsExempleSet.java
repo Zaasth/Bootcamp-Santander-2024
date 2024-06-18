@@ -21,8 +21,8 @@ public class GenericsExempleSet {
         System.out.println("===========================");
         // Iterando sobre o conjunto sem Generics (necessário fazer cast)
         for(Object elemento : conjuntoSemGenerics){
-            String str = (String) elemento;
-            System.out.println(str);
+            //String str = (String) elemento;
+            System.out.println(elemento);
         }
     }
 }
